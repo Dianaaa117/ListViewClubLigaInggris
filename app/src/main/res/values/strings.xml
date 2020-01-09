@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListView Club Liga Inggris</string>
+    <string name="club_name">Club Name</string>
+    <string name="club_detail">Detail</string>
+</resources>
